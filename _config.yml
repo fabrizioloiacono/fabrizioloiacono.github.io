@@ -12,7 +12,7 @@ title                    : "Fabrizio's Homepage"
 title_separator          : "-"
 name                     : &name "Fabrizio Loiacono"
 description              : &description "Personal Academic Site"
-url                      : https://examenesfce.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fabrizioloiacono.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
